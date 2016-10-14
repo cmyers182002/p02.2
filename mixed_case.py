@@ -26,3 +26,8 @@ def run_tests():
 
 # Edit this code
 def test_case(s):
+    
+    if s == s.lower():
+        print
+        
+        
